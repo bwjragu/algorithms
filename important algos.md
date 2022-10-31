@@ -7,3 +7,10 @@
     Diffie-Hellman key exchange. ...
     Dijkstra's algorithm.
 
+ Dynamic programming
+Dynamic programming is a method for reducing the runtime of algorithms exhibiting the properties of overlapping subproblems and optimal substructure, described below.
+Euclidean algorithm
+Algorithm to determine the greatest common divisor (gcd) of two integers. It is one of the oldest algorithms known, since it appeared in Euclid's Elements around 300 BC. The algorithm does not require factoring the two integers.
+Expectation-maximization algorithm (EM-Training)
+In statistical computing, an expectation-maximization (EM) algorithm is an algorithm for finding maximum likelihood estimates of parameters in probabilistic models, where the model depends on unobserved latent variables. EM alternates between performing an expectation step, which computes the expected value of the latent variables, and a maximization step, which computes the maximum likelihood estimates of the parameters given the data and setting the latent variables to their expectation.
+Fast Fourier transform (FFT) 
